@@ -1,6 +1,6 @@
 # House Marketplace
 
-house for sa1e renta1l services 
+house for sale rententa1 services 
 
 ## Usage
 
